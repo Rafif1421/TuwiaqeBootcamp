@@ -1,0 +1,8 @@
+D:\VS\ASP.net\repos\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+D:\VS\ASP.net\repos\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+D:\VS\ASP.net\repos\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+D:\VS\ASP.net\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+D:\VS\ASP.net\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.SuggestedBindingRedirects.cache
+D:\VS\ASP.net\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\VS\ASP.net\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+D:\VS\ASP.net\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb

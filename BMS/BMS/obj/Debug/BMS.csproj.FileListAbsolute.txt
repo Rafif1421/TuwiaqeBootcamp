@@ -1,8 +1,0 @@
-D:\VS\ASP.net\repos\BMS\BMS\obj\Debug\BMS.csproj.AssemblyReference.cache
-D:\VS\ASP.net\repos\BMS\BMS\obj\Debug\BMS.csproj.SuggestedBindingRedirects.cache
-D:\VS\ASP.net\repos\BMS\BMS\obj\Debug\BMS.csproj.CoreCompileInputs.cache
-D:\VS\ASP.net\repos\BMS\BMS\bin\Debug\BMS.exe.config
-D:\VS\ASP.net\repos\BMS\BMS\bin\Debug\BMS.exe
-D:\VS\ASP.net\repos\BMS\BMS\bin\Debug\BMS.pdb
-D:\VS\ASP.net\repos\BMS\BMS\obj\Debug\BMS.exe
-D:\VS\ASP.net\repos\BMS\BMS\obj\Debug\BMS.pdb
